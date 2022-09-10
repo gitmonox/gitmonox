@@ -43,7 +43,7 @@ Conhecimentos na criação de bancos de dados relacionais e não relacionais de 
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/776979535143895120/1018167144623636510/osiris23.png?raw=true" width="340px" height="340px"/>
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/HatefulSeveralIbis-max-1mb.gif?raw=true" width="340px" height="340px"/>
 </div>
 
 </div>
