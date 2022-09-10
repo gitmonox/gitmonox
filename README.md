@@ -91,9 +91,6 @@ Conhecimentos na criação de bancos de dados relacionais e não relacionais de 
 <img src="https://img.shields.io/badge/Python-Lover-blue">
 <img src="https://img.shields.io/badge/Lua-for%20FiveM-blue">
 <img src="https://img.shields.io/badge/Open%20Source-Lover-blue">
-<img src="https://img.shields.io/badge/Google%20Assistant-4285F4?style=flat&logo=google%20assistant&logoColor=white">
-<img src="https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white">
-<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white">
   
 <br />
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B40%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue"/>
@@ -101,6 +98,10 @@ Conhecimentos na criação de bancos de dados relacionais e não relacionais de 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=gitmonox"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/gitmonox?style=social"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/gitmonox?style=social"/>
+<br />
+<img src="https://img.shields.io/badge/Google%20Assistant-4285F4?style=flat&logo=google%20assistant&logoColor=white">
+<img src="https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white">
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white">
 </div>
 
 -----
