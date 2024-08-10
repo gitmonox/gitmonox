@@ -57,6 +57,7 @@ Conhecimentos na criação de bancos de dados relacionais e não relacionais de 
 &nbsp;
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/python.png"/></a></code>
 &nbsp;  
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/mysql.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/postgresql.png"/></a></code>
