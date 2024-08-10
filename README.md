@@ -92,9 +92,7 @@ Conhecimentos na criação de bancos de dados relacionais e não relacionais de 
 <img src="https://img.shields.io/badge/Lua-for%20FiveM-blue">
 <img src="https://img.shields.io/badge/Open%20Source-Lover-blue">
   
-<br />
-<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B40%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue"/>
-<br />
+
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=gitmonox"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/gitmonox?style=social"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/gitmonox?style=social"/>
