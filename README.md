@@ -59,7 +59,7 @@ Desenvolvedor Backend com mais de 5 anos de experiência em automação de proce
 ### 📊 Estatísticas do GitHub:
 <img alt="GitHub Stats" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitmonox&theme=github_dark"/>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gitmonox&theme=github_dark"/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=gitmonox&theme=onedark" alt="adam-pw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=gitmonox&theme=darkhub" alt="adam-pw" /></a> </p>
 
 </div>
 
