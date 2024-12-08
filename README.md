@@ -38,7 +38,6 @@ Desenvolvedor Backend com mais de 5 anos de experiência em automação de proce
 
 ### 🔧 Linguagens e Ferramentas:
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/python.png"/></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/mysql.png"/></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/postgresql.png"/></a></code>
 <code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/mongodb.png"/></a></code>
 <code><a href="https://www.lua.org/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/lua.png"/></a></code>
