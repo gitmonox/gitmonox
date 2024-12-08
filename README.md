@@ -7,7 +7,7 @@
 -----
 
 <div align="center">
-<p align="right"> <h3>Visitantes: </h3> <img src="https://komarev.com/ghpvc/?username=gitmonox&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gitmonox&label=Profile%20views&color=0e75b6&style=flat"
     alt="gitmonox" /> 
   </p>
   
