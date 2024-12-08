@@ -46,6 +46,7 @@ Desenvolvedor Backend com mais de 5 anos de experiência em automação de proce
 <code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/heroku.png"/></a></code>
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/vs.png"/></a></code>
 <code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/pc.png"/></a></code>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32" />
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
@@ -58,6 +59,7 @@ Desenvolvedor Backend com mais de 5 anos de experiência em automação de proce
 ### 📊 Estatísticas do GitHub:
 <img alt="GitHub Stats" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitmonox&theme=github_dark"/>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gitmonox&theme=github_dark"/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=gitmonox" alt="adam-pw" /></a> </p>
 
 </div>
 
