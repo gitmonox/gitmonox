@@ -1,6 +1,6 @@
 -----
 <div align="center">
-  <img alt="Header" src="https://github.com/gitmonox/gitmonox/blob/main/profile-3d-contrib/profile-night-view.svg"/>
+  <img alt="Header" src="https://github.com/gitmonox/gitmonox/blob/main/profile-3d-contrib/profile-night-green.svg"/>
 </div>
 
 <div align="center">
