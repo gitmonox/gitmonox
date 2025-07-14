@@ -64,15 +64,6 @@ Desenvolvedor Backend com mais de 5 anos de experiência em automação de proce
 
 <div align="center">
 
-### 🎧 Recentemente no Spotify:
-[![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=monoxstep&count=8)](https://spotify-recently-played-readme.vercel.app/api?user=monoxstep&count=8)
-
-</div>
-
------
-
-<div align="center">
-
 ### 📬 Contato:
 [![Email](https://img.shields.io/badge/Email-brunotangerino03%40gmail.com-red?style=for-the-badge)](mailto:brunotangerino03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno_Tangerino-blue?style=for-the-badge)](https://www.linkedin.com/in/bruno-tangerino/)
