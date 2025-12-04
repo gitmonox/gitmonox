@@ -26,7 +26,25 @@
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Sobre mim:
 
 <div align="justify">
-Desenvolvedor Backend com mais de 5 anos de experiência em automação de processos, especialização em Python e criação de soluções para operações complexas usando Selenium, Web Scraping e APIs modernas. 
+Technology Manager with 5+ years of experience in Python development and process automation. 
+I architect and maintain multiple critical systems including REST APIs, invoice processing platforms, and RPA solutions that handle complex challenges like CAPTCHA bypass and 2FA authentication.
+
+Currently leading development teams where I combine technical expertise with people management from architecting backend solutions to mentoring developers and interfacing directly with clients.
+
+Core focus areas:
+• Backend Development & System Architecture
+• Team Leadership & Agile/Scrum Coordination
+• Process Automation & Web Scraping at Scale
+• Cloud Infrastructure & DevOps
+
+Technical Leadership:
+• Designing scalable architectures with Docker, Redis, and Job Queues
+• Building automation bots with Selenium for utility companies
+• Integrating enterprise systems including SAP
+
+Tech Stack: Python, Selenium, Docker, Redis, REST APIs, PostgreSQL, SAP Integration
+
+I thrive on solving complex problems and turning technical challenges into business value.
 </div>
 
 -----
