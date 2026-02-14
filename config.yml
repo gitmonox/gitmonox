@@ -49,9 +49,9 @@ projects:
   - repo: "Gestão de Faturas"
     arm: 0
     description: "Processamento e controle de faturas de energia."
-  - repo: "AIHUB"
+  - repo: "Engecomp RPA"
     arm: 1
-    description: "Hub de inteligência artificial e automação."
+    description: "Automação robótica de processos para o setor energético."
   - repo: "MCP"
     arm: 1
     description: "Servidor Model Context Protocol para AI Agents."
