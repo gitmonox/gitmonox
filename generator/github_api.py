@@ -168,11 +168,18 @@ class GitHubAPI:
     def _paginate_repos(self):
         """Yield pages of owned repos from the REST API."""
         page = 1
+        # Use /user/repos (authenticated) to include private repos
+        if self.token:
+            url = f"{self.REST_URL}/user/repos"
+            params_base = {"per_page": 100, "affiliation": "owner"}
+        else:
+            url = f"{self.REST_URL}/users/{self.username}/repos"
+            params_base = {"per_page": 100, "type": "owner"}
         while True:
             repos_resp = self._request(
                 "GET",
-                f"{self.REST_URL}/users/{self.username}/repos",
-                params={"per_page": 100, "page": page, "type": "owner"},
+                url,
+                params={**params_base, "page": page},
             )
             repos_resp.raise_for_status()
             repos = repos_resp.json()

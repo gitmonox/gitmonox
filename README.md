@@ -30,11 +30,11 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gitmonox&theme=darkhub&no-frame=true&column=6" alt="Trophies"/>
   </a>
-</div>
+</p>
 
 <br/>
 
