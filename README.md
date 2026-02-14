@@ -1,92 +1,81 @@
------
-<div align="center">
-  <img alt="Header" src="https://github.com/gitmonox/gitmonox/blob/main/profile-3d-contrib/profile-night-view.svg"/>
-</div>
+<!-- Galaxy Profile README — gitmonox -->
 
 <div align="center">
-<p align="right"><h3>Visitantes: </h3> <img src="https://komarev.com/ghpvc/?username=gitmonox&label=Profile%20views&color=0e75b6&style=flat"
-    alt="gitmonox" /> 
-  </p>
-  
-🌟 Conecte-se:
-
-<table>
-<tr>
-<td><a href="https://github.com/gitmonox" target="_blank"><img src="https://github.com/gitmonox/gitmonox/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="mailto:brunotangerino03@gmail.com" target="_blank"><img src="https://github.com/gitmonox/gitmonox/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="https://www.linkedin.com/in/bruno-tangerino/" target="_blank"><img src="https://github.com/gitmonox/gitmonox/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="https://discordapp.com/users/688016126247960594" target="_blank"><img src="https://github.com/gitmonox/gitmonox/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a></td>
-</tr>
-</table>
-
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
------
-
-### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Sobre mim:
-
-<div align="justify">
-Technology Manager with 5+ years of experience in Python development and process automation. 
-I architect and maintain multiple critical systems including REST APIs, invoice processing platforms, and RPA solutions that handle complex challenges like CAPTCHA bypass and 2FA authentication.
-
-Currently leading development teams where I combine technical expertise with people management from architecting backend solutions to mentoring developers and interfacing directly with clients.
-
-Core focus areas:
-• Backend Development & System Architecture
-• Team Leadership & Agile/Scrum Coordination
-• Process Automation & Web Scraping at Scale
-• Cloud Infrastructure & DevOps
-
-Technical Leadership:
-• Designing scalable architectures with Docker, Redis, and Job Queues
-• Building automation bots with Selenium for utility companies
-• Integrating enterprise systems including SAP
-
-Tech Stack: Python, Selenium, Docker, Redis, REST APIs, PostgreSQL, SAP Integration
-
-I thrive on solving complex problems and turning technical challenges into business value.
-</div>
-
------
+<br/>
 
 <div align="center">
-
-### 🔧 Linguagens e Ferramentas:
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/python.png"/></a></code>
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/postgresql.png"/></a></code>
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/mongodb.png"/></a></code>
-<code><a href="https://www.lua.org/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/lua.png"/></a></code>
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/aws.svg"/></a></code>
-<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/heroku.png"/></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/vs.png"/></a></code>
-<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/gitmonox/gitmonox/blob/main/img/pc.png"/></a></code>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32" />
-
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
+  <img src="https://komarev.com/ghpvc/?username=gitmonox&label=Profile%20views&color=0e75b6&style=flat" alt="gitmonox" />
 </div>
 
------
+<br/>
 
 <div align="center">
-
-### 📊 Estatísticas do GitHub:
-<img alt="GitHub Stats" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitmonox&theme=github_dark"/>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gitmonox&theme=github_dark"/>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gitmonox&theme=github_dark&utcOffset=-3"/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=gitmonox&theme=darkhub" alt="adam-pw" /></a> </p>
-
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
------
+<br/>
 
 <div align="center">
-
-### 📬 Contato:
-[![Email](https://img.shields.io/badge/Email-brunotangerino03%40gmail.com-red?style=for-the-badge)](mailto:brunotangerino03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno_Tangerino-blue?style=for-the-badge)](https://www.linkedin.com/in/bruno-tangerino/)
-[![GitHub](https://img.shields.io/badge/GitHub-Gitmonox-blue?style=for-the-badge)](https://github.com/gitmonox)
-
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
------
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gitmonox&theme=darkhub&no-frame=true&column=6" alt="Trophies"/>
+  </a>
+</div>
+
+<br/>
+
+<details>
+<summary><strong>Mais sobre mim</strong></summary>
+
+<br/>
+
+Technology Manager com 5+ anos de experiência em desenvolvimento Python e automação de processos.
+Arquiteto de APIs REST, plataformas de processamento de faturas e soluções RPA que lidam com desafios como bypass de CAPTCHA e autenticação 2FA.
+
+Atualmente liderando times de desenvolvimento, combinando expertise técnica com gestão de pessoas — desde arquitetar soluções backend até mentorar desenvolvedores e interface direta com clientes.
+
+**Atualmente na** Turing — São Paulo, BR
+
+**Áreas de foco:**
+- Backend Development & System Architecture
+- Team Leadership & Agile/Scrum Coordination
+- Process Automation & Web Scraping at Scale
+- Cloud Infrastructure & DevOps
+
+**Liderança técnica:**
+- Arquiteturas escaláveis com Docker, Redis e Job Queues
+- Bots de automação com Selenium para empresas de utilities
+- Integração de sistemas enterprise incluindo SAP
+
+</details>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:brunotangerino03@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-tangerino/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="https://discordapp.com/users/688016126247960594">
+    <img src="https://img.shields.io/badge/-Discord-080c14?style=for-the-badge&logo=discord&logoColor=ffb020" alt="Discord"/>
+  </a>
+  <a href="https://github.com/gitmonox">
+    <img src="https://img.shields.io/badge/-GitHub-080c14?style=for-the-badge&logo=github&logoColor=f1f5f9" alt="GitHub"/>
+  </a>
+</div>

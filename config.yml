@@ -1,0 +1,81 @@
+# Galaxy Profile README Configuration — gitmonox
+# Baseado no template galaxy-profile (vinimlo/galaxy-profile)
+
+username: gitmonox
+
+profile:
+  name: "Bruno Tangerino"
+  tagline: "Technology Manager & Python Developer"
+  company: "Turing"
+  location: "São Paulo, BR"
+  bio: |
+    Technology Manager com 5+ anos de experiência em desenvolvimento Python e automação de processos.
+    Arquiteto de APIs REST, plataformas de processamento e soluções RPA em escala.
+  philosophy: '"Transformando desafios técnicos em valor de negócio."'
+
+social:
+  email: "brunotangerino03@gmail.com"
+  linkedin: "bruno-tangerino"
+  website: ""
+
+# Galaxy arms — 3 áreas de foco principais
+galaxy_arms:
+  - name: "Backend & APIs"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "REST APIs"
+      - "PostgreSQL"
+  - name: "Automação & RPA"
+    color: "dendrite_violet"
+    items:
+      - "Selenium"
+      - "Web Scraping"
+      - "SAP Integration"
+  - name: "Infra & DevOps"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "AWS"
+      - "Redis"
+
+# Projetos em destaque (constellation)
+# Ajuste os repos conforme seus projetos reais
+projects:
+  - repo: "gitmonox/corona"
+    arm: 0
+    description: "COVID-19 Web Service — API para dados de coronavirus."
+  # Adicione mais projetos aqui quando quiser:
+  # - repo: "gitmonox/outro-projeto"
+  #   arm: 1
+  #   description: "Descrição do projeto."
+
+# Tema — paleta deep space (padrão do galaxy-profile)
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# Métricas exibidas no telemetry card
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Linguagens
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
