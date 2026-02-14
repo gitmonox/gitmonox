@@ -26,7 +26,7 @@ galaxy_arms:
       - "Python"
       - "REST APIs"
       - "PostgreSQL"
-  - name: "Automação & RPA"
+  - name: "Intelligent Systems"
     color: "dendrite_violet"
     items:
       - "Selenium"
