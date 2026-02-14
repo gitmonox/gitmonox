@@ -43,24 +43,18 @@ galaxy_arms:
 # Projetos em destaque (constellation)
 # Ajuste os repos conforme seus projetos reais
 projects:
-  - repo: "gitmonox/engecomp-gestao-faturas"
-    arm: 0
-    description: "Plataforma de gestão e processamento de faturas de energia."
-  - repo: "gitmonox/engecomp-faturamento"
-    arm: 0
-    description: "Sistema de faturamento e cobrança automatizado."
-  - repo: "gitmonox/boletim-de-energia"
-    arm: 0
-    description: "Geração de boletins e relatórios do setor energético."
-  - repo: "gitmonox/engecomp-rebalanceamento"
-    arm: 2
-    description: "Motor de rebalanceamento de contratos de energia."
-  - repo: "Engecomp/engecomp_mcp"
+  - repo: "Auditoria de Faturas"
     arm: 1
-    description: "Servidor MCP para integração com AI Agents."
-  - repo: "Engecomp/frontend-auditoria"
+    description: "Plataforma de auditoria inteligente de faturas."
+  - repo: "Gestão de Faturas"
+    arm: 0
+    description: "Processamento e controle de faturas de energia."
+  - repo: "AIHUB"
     arm: 1
-    description: "Frontend de auditoria de faturas e contratos."
+    description: "Hub de inteligência artificial e automação."
+  - repo: "MCP"
+    arm: 1
+    description: "Servidor Model Context Protocol para AI Agents."
 
 # Tema — paleta deep space (padrão do galaxy-profile)
 theme:
