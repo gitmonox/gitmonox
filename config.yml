@@ -30,7 +30,8 @@ galaxy_arms:
     color: "dendrite_violet"
     items:
       - "Selenium"
-      - "Web Scraping"
+      - "MCP"
+      - "AI Agents"
       - "SAP Integration"
   - name: "Infra & DevOps"
     color: "axon_amber"
@@ -42,13 +43,24 @@ galaxy_arms:
 # Projetos em destaque (constellation)
 # Ajuste os repos conforme seus projetos reais
 projects:
-  - repo: "gitmonox/corona"
+  - repo: "gitmonox/engecomp-gestao-faturas"
     arm: 0
-    description: "COVID-19 Web Service — API para dados de coronavirus."
-  # Adicione mais projetos aqui quando quiser:
-  # - repo: "gitmonox/outro-projeto"
-  #   arm: 1
-  #   description: "Descrição do projeto."
+    description: "Plataforma de gestão e processamento de faturas de energia."
+  - repo: "gitmonox/engecomp-faturamento"
+    arm: 0
+    description: "Sistema de faturamento e cobrança automatizado."
+  - repo: "gitmonox/boletim-de-energia"
+    arm: 0
+    description: "Geração de boletins e relatórios do setor energético."
+  - repo: "gitmonox/engecomp-rebalanceamento"
+    arm: 2
+    description: "Motor de rebalanceamento de contratos de energia."
+  - repo: "Engecomp/engecomp_mcp"
+    arm: 1
+    description: "Servidor MCP para integração com AI Agents."
+  - repo: "Engecomp/frontend-auditoria"
+    arm: 1
+    description: "Frontend de auditoria de faturas e contratos."
 
 # Tema — paleta deep space (padrão do galaxy-profile)
 theme:
